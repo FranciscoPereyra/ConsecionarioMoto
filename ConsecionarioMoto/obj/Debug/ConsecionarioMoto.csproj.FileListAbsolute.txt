@@ -1,0 +1,11 @@
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\bin\Debug\ConsecionarioMoto.exe.config
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\bin\Debug\ConsecionarioMoto.exe
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\bin\Debug\ConsecionarioMoto.pdb
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.csproj.AssemblyReference.cache
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.Form1.resources
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.Form2.resources
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.Properties.Resources.resources
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.csproj.GenerateResource.cache
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.csproj.CoreCompileInputs.cache
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.exe
+D:\Repos\ConsecionarioMoto\ConsecionarioMoto\obj\Debug\ConsecionarioMoto.pdb
